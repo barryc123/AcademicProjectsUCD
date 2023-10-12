@@ -1,4 +1,4 @@
-# AcademicProjectsUCD
+# ValueStockIdentifier
 Value Stock Identifier Tool that uses:
 - Web scraping to get the stocks in the S&P500
 - SQLite3 to store data in a database locally
